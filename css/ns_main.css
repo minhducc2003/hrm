@@ -1,0 +1,44 @@
+@charset "utf-8";
+body {
+
+    background: #3e4c58 url(../images/background.png);
+
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+
+    font-size: 75%;
+
+    line-height: 1.4;
+
+}
+.wrapper {
+    width: 950px;
+    border: 10px outset #C00;
+/*	border: 10px solid #d8d8d8;   mau nen khung bao quanh*/
+    margin: 20px auto 0;
+    background: #000;
+}
+.header {
+	height: 140px;
+	position: relative;
+	
+}
+.left {
+	float:left;
+	margin-left: 0px;
+	text-align: left;
+	background-color:#999;
+	border: 1px;
+	margin-top: 20px;
+	width: 180px;
+}
+.content {
+	width: 700px;
+	float: right;
+	border: solid #00F;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 14px;
+	
+
+}
+

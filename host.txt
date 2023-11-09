@@ -1,0 +1,22 @@
+Main Hosting Details
+Control panel username
+b12_24704192
+Control panel password	**********
+Control panel URL
+cpanel.byethost12.com
+MySQL username
+b12_24704192
+MySQL password
+**********
+MySQL hostname
+sql205.byethost12.com
+FTP username
+b12_24704192
+FTP password
+**********
+FTP host name	ftp.byethost12.com
+database: b12_24704192_qctranan
+
+Your Website URL's
+Home page
+http://nhansu.byethost12.com
